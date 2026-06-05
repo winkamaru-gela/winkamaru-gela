@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Darwin Kamarudin
 
-<!--
-**winkamaru-gela/winkamaru-gela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pengembang Sistem & Penggiat IT**
 
-Here are some ideas to get you started:
+Seorang pengembang independen dengan fokus kuat pada pembangunan aplikasi praktis menggunakan **React.js**, **Flutter**, dan **Teknologi AI**. Saya senang mengubah ide menjadi kode fungsional dan terus mengeksplorasi kemungkinan baru di dunia IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **Apa yang Saya Kerjakan:**
+- 🖥️ **Pengembangan Web:** Membangun aplikasi web modern yang cepat.
+- 📱 **Pengembangan Mobile:** Merancang aplikasi Android & iOS.
+- 🤖 **Integrasi AI:** Menggunakan AI untuk meningkatkan produktivitas coding.
+- 📊 **Otomasi Data:** Menciptakan sistem otomatis untuk manajemen data.
+
+---
+*Tetap belajar. Tetap berinovasi.*
