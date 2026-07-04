@@ -8,7 +8,7 @@ Seorang pengembang independen dengan fokus kuat pada pembangunan aplikasi prakti
 
 ### **Apa yang Saya Kerjakan:**
 - 🖥️ **Pengembangan Web:** Membangun aplikasi web modern yang cepat.
-- 📱 **Pengembangan Mobile:** Merancang aplikasi Android & iOS.
+- 📱 **Pengembangan Mobile:** Merancang aplikasi Android basic (capacitor + react (vite))
 - 🤖 **Integrasi AI:** Menggunakan AI untuk meningkatkan produktivitas coding.
 - 📊 **Otomasi Data:** Menciptakan sistem otomatis untuk manajemen data.
 
